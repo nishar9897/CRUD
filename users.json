@@ -1,0 +1,82 @@
+[{
+  "_id": {
+    "$oid": "615aa587daa387f74428e2d1"
+  },
+  "first_name": "Nishar",
+  "last_name": "Ramesh",
+  "email": "nishar.r@valuebound.com",
+  "company": "valuebound",
+  "phone": 8248948248
+},{
+  "_id": {
+    "$oid": "615aa63ddaa387f74428e2d3"
+  },
+  "first_name": "vinay",
+  "last_name": "ramki",
+  "email": "vinay.r@valuebound.com",
+  "company": "valuebound",
+  "phone": 9875641253
+},{
+  "_id": {
+    "$oid": "615aa6cddaa387f74428e2d4"
+  },
+  "first_name": "vijay",
+  "last_name": "J",
+  "email": "vijay.joseph@valuebound.com",
+  "company": "valuebound",
+  "phone": 8475977854
+},{
+  "_id": {
+    "$oid": "615aa708daa387f74428e2d5"
+  },
+  "first_name": "vikram",
+  "last_name": "vibhav",
+  "email": "vikram.v@valuebound.com",
+  "company": "valuebound",
+  "phone": 8987564235
+},{
+  "_id": {
+    "$oid": "615aa744daa387f74428e2d6"
+  },
+  "first_name": "jai",
+  "last_name": "shalom",
+  "email": "jai.s@valuebound.com",
+  "company": "valuebound",
+  "phone": 7893654893
+},{
+  "_id": {
+    "$oid": "615be4d225b5820a688413fe"
+  },
+  "first_name": "sk",
+  "last_name": "joshua",
+  "email": "sk@valuebound.com",
+  "company": "valuebound",
+  "phone": 4578946164
+},{
+  "_id": {
+    "$oid": "615be4d225b5820a688413ff"
+  },
+  "first_name": "aryan",
+  "last_name": "enoch",
+  "email": "aryan@valuebound.com",
+  "company": "valuebound",
+  "phone": 985674589
+},{
+  "_id": {
+    "$oid": "615be4d225b5820a68841400"
+  },
+  "first_name": "tiny",
+  "last_name": "shan",
+  "email": "tiny@valuebound.com",
+  "company": "valuebound",
+  "phone": 45889426688
+},{
+  "_id": {
+    "$oid": "615be4d225b5820a68841401"
+  },
+  "first_name": "shan",
+  "last_name": "venkat",
+  "email": "shan@valuebound.com",
+  "company": "valuebound",
+  "phone": 733948759
+}]
